@@ -25,9 +25,9 @@ Professor:
     P: SoftwareEngineering
     
 Student:
-    U: bh@bc.com
+    U: mp@bc.edu
     |
-    P: 123
+    P: 47047663
    
 To Access Admin - change URL after port number to "/admin/"
 
